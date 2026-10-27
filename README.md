@@ -1,4 +1,3 @@
-
 # 📊 Projeto Acadêmico - Modelagem e Cálculos DAX no Power BI
 
 ## 📌 Visão Geral
@@ -9,10 +8,10 @@ Este projeto foi desenvolvido como parte das atividades acadêmicas da faculdade
 ## 📸 Visualizações do Projeto
 
 ### 1. Painel de Indicadores e Métricas DAX
-![Indicadores e Métricas DAX](tela-calculos-dax.png)
+![Painel de Indicadores e Métricas DAX](tela-calculos-dax.png)
 
 ### 2. Modelo de Dados e Relacionamentos
-![Modelo de Dados 1](tela-relacionamentos.png)
+![Modelo de Dados 1](tela-relacionamento.png)
 
 ### 3. Tabelas Auxiliares e Calculadas (Visão Central)
 ![Modelo de Dados 2](tela-relacionamento-2.png)
