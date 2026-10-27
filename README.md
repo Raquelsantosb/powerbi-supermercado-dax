@@ -14,11 +14,10 @@ Este projeto foi desenvolvido como parte das atividades acadêmicas da faculdade
 ![Modelo de Dados 1](tela-relacionamentos.png)
 
 ### 3. Tabelas Auxiliares e Calculadas (Visão Central)
-![Modelo de Dados 2](tela-relacionamentos-2.png)
+![Modelo de Dados 2](tela-relacionamento-2.png)
 
 ### 4. Tabelas Auxiliares e Calculadas (Visão Direita)
-![Modelo de Dados 3](tela-relacionamentos-3.png)
-
+![Modelo de Dados 3](tela-relacionamento-3.png)
 ---
 
 ## 🛠️ Conteúdos e Funções Praticadas
