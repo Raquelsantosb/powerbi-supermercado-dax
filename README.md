@@ -1,3 +1,4 @@
+
 # 📊 Projeto Acadêmico - Modelagem e Cálculos DAX no Power BI
 
 ## 📌 Visão Geral
@@ -18,6 +19,7 @@ Este projeto foi desenvolvido como parte das atividades acadêmicas da faculdade
 
 ### 4. Tabelas Auxiliares e Calculadas (Visão Direita)
 ![Modelo de Dados 3](tela-relacionamento-3.png)
+
 ---
 
 ## 🛠️ Conteúdos e Funções Praticadas
